@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="analise_crimes_rj.png" >
+  <img src="fundo_crimes_rj.png" >
 </p>
 
 # analise-crimes-rj
